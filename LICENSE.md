@@ -1,4 +1,4 @@
-# 
+# Nativo StarCoder 2 plugins. Con autonomía de agentes y computación en el borde — optimizado para el máximo rendimiento y eficiencia.
 
 
 
